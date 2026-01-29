@@ -58,16 +58,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=BobbyDarts&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -108,7 +98,7 @@
 
 ### 👀 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/BobbyDarts/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=BobbyDarts&color=blue&style=for-the-badge)
 
 ---
 
