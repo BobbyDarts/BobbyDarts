@@ -3,11 +3,14 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Every 6 hours
-  workflow_dispatch: # Manual trigger
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:

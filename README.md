@@ -22,13 +22,13 @@
 
 <div align="center">
 
-![](./profile-summary-card-output/0-profile-details.svg)
+![](./profile-summary-card-output/apprentice/0-profile-details.svg)
 
-<img src="./profile-summary-card-output/1-repos-per-language.svg" width="400" />
-<img src="./profile-summary-card-output/2-most-commit-language.svg" width="400" />
+<img src="./profile-summary-card-output/apprentice/1-repos-per-language.svg" width="400" />
+<img src="./profile-summary-card-output/apprentice/2-most-commit-language.svg" width="400" />
 
-![](./profile-summary-card-output/3-stats.svg)
-![](./profile-summary-card-output/4-productive-time.svg)
+![](./profile-summary-card-output/apprentice/3-stats.svg)
+![](./profile-summary-card-output/apprentice/4-productive-time.svg)
 
 </div>
 
