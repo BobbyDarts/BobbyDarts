@@ -72,11 +72,15 @@
 
 ## 💼 Featured Projects
 
-<div align="center">
-
-[![Job Hunt Daily](https://github-readme-stats.vercel.app/api/pin/?username=BobbyDarts&repo=job-hunt-daily&theme=tokyonight&hide_border=true)](https://github.com/BobbyDarts/job-hunt-daily)
-
-</div>
+<p align="center">
+  <a href="https://github.com/BobbyDarts/job-hunt-daily">
+    <img 
+      src="https://raw.githubusercontent.com/BobbyDarts/job-hunt-daily/main/src/assets/logo.svg"
+      alt="Job Hunt Daily"
+      width="320"
+    />
+  </a>
+</p>
 
 ---
 
