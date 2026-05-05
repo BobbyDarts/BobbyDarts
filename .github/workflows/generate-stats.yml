@@ -19,13 +19,15 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: BobbyDarts
+          BRANCH_NAME: "main"
+          AUTO_PUSH: true
 
       - name: Commit changes
         run: |
