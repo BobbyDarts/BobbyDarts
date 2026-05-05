@@ -21,12 +21,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Bobby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BobbyDarts&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyDarts&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![](./profile-summary-card-output/0-profile-details.svg)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BobbyDarts&theme=tokyonight&hide_border=true)
+<img src="./profile-summary-card-output/1-repos-per-language.svg" width="400" />
+<img src="./profile-summary-card-output/2-most-commit-language.svg" width="400" />
+
+![](./profile-summary-card-output/3-stats.svg)
+![](./profile-summary-card-output/4-productive-time.svg)
 
 </div>
 
